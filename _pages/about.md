@@ -22,14 +22,22 @@ OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the
 CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(reversion)
 
 ======Education experience
+
 2012/09-2016/06  computer science      Beijing University of Technology  
+
 2017/09-2020/01  software engineering  Northeastern University
 
 
 ======Work experience
+
 2016/07-2017/07  Software Engineer  Risk Controlling  csljc 
+
 2019/03-2019/06  Algorithm Engineer  Recommendation Algorithm  Weibo 
+
 2019/06-2019/09  Algorithm Researcher  Matching Algorithm  NetEase 
 
+======Contact with me
 
-
+WeChat public account  AI算法学习笔记
+zhihu  坏星星是大脸猫
+email 390959029@qq.com or 1771056@stu.neu.edu.cn
