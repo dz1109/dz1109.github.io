@@ -39,5 +39,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 ======Contact with me
 
 WeChat public account  AI算法学习笔记
+
 zhihu  坏星星是大脸猫
+
 email 390959029@qq.com or 1771056@stu.neu.edu.cn
