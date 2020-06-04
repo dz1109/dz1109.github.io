@@ -19,7 +19,7 @@ RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM2020)(
 
 OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020)(CCF Rank: A)
 
-CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(reversion)
+CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(CCF Rank: A)(reversion)
 
 ======Education experience
 
@@ -30,11 +30,11 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 
 ======Work experience
 
-2016/07-2017/07  Software Engineer  Risk Controlling  csljc 
+2016/07-2017/07  Software Engineer       Risk Controlling         csljc 
 
-2019/03-2019/06  Algorithm Engineer  Recommendation Algorithm  Weibo 
+2019/03-2019/06  Algorithm Engineer  Recommendation Algorithm      Weibo 
 
-2019/06-2019/09  Algorithm Researcher  Matching Algorithm  NetEase 
+2019/06-2019/09  Algorithm Researcher  Matching Algorithm          NetEase 
 
 ======Contact with me
 
