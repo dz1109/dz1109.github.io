@@ -35,6 +35,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 2019/03-2019/06  Algorithm Engineer  Recommendation Algorithm      Weibo 
 
 2019/06-2019/09  Algorithm Researcher  Matching Algorithm          NetEase 
+
 2020001-Now      Algorithm Engineer       Search Algorithm      ChinaLiterature
 
 ======Contact with me
