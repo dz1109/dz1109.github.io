@@ -17,7 +17,7 @@ GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Predictio
 
 RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM2020)(CCF Rank: A)
 
-OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020)(CCF Rank: A)
+OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020 Oral)(CCF Rank: A)
 
 CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(CCF Rank: A)(reversion)
 
@@ -35,6 +35,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 2019/03-2019/06  Algorithm Engineer  Recommendation Algorithm      Weibo 
 
 2019/06-2019/09  Algorithm Researcher  Matching Algorithm          NetEase 
+2020001-Now      Algorithm Engineer       Search Algorithm      ChinaLiterature
 
 ======Contact with me
 
