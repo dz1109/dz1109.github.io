@@ -19,7 +19,7 @@ RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM2020)(
 
 OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020 Oral)(CCF Rank: A)
 
-CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(CCF Rank: A)(reversion)
+CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(CCF Rank: A)(minor reversion)
 
 ======Education experience
 
@@ -44,4 +44,4 @@ WeChat public account  AI算法学习笔记
 
 zhihu  坏星星是大脸猫
 
-email 390959029@qq.com or 1771056@stu.neu.edu.cn
+email 390959029@qq.com or DezhiYe.NEU@gmail.com
