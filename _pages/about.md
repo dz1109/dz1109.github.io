@@ -40,6 +40,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 2020/01-Now      Algorithm Engineer       Search Algorithm      ChinaLiterature
 
 ======Academic Collaboration
+
 We are looking for some academic cooperation on Search, Recommendation or NLP, please contact us if you are interested.
 
 ======Contact with me
