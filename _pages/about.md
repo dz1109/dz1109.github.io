@@ -15,11 +15,12 @@ I am now a algorithm engineer at ChinaLiterature focus on Search Ranking and Sem
 
 GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
 
-RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM2020)(CCF Rank: A)
+RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM 2020)(CCF Rank: A)
 
 OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020 Oral)(CCF Rank: A)
 
 CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020)(CCF Rank: A)(minor reversion)
+
 
 ======Education experience
 
@@ -38,10 +39,13 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 
 2020/01-Now      Algorithm Engineer       Search Algorithm      ChinaLiterature
 
+======Academic Collaboration
+We are looking for some academic cooperation on Search, Recommendation or NLP, please contact us if you are interested.
+
 ======Contact with me
 
 WeChat public account  AI算法学习笔记
 
 zhihu  坏星星是大脸猫
 
-email 390959029@qq.com or DezhiYe.NEU@gmail.com
+Email 390959029@qq.com or DezhiYe.NEU@gmail.com
