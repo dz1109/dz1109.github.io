@@ -41,7 +41,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering(TKDE 2020
 
 ======Academic Collaboration
 
-We are looking for some academic cooperation on Search, Recommendation or NLP, please contact us if you are interested.
+We are looking for some academic cooperation on Search, Recommendation or NLP, please contact us if you are interested. We are committed to publishing Advanced work at top conferences such as KDD, ACL，AAAI 
 
 ======Contact with me
 
