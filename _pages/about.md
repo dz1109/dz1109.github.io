@@ -44,6 +44,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Tra
 We are looking for some academic cooperation on Search, Recommendation or NLP, please contact us if you are interested. We are committed to publishing Advanced work at top conferences such as KDD, ACL，AAAI.
 
 ======Contact with me
+
 wechat  ye18600537322
 
 zhihu  坏星星是大脸猫
