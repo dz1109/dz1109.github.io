@@ -11,6 +11,8 @@ redirect_from:
 I am now a algorithm engineer at ChinaLiterature focus on Search Ranking and Semantic Matching. I received the MA.Sc. degree in software engineering from Northeastern University in 2020 and the B.S. degree in computer science from Beijing University of Technology 2016. My research interests include data mining and machine learning. I focused on frontier research and technology transformation in Search Ranking , Semantic Matching and Representation Learning.
 
 
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
+
 ======Publications
 
 GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
@@ -22,14 +24,14 @@ OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the
 CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
 
 
-======Education experience
+======Education Experience
 
 2012/09-2016/06  computer science      Beijing University of Technology  
 
 2017/09-2020/01  software engineering  Northeastern University
 
 
-======Work experience
+======Work Experience
 
 2016/07-2017/07  Software Engineer       Risk Controlling         csljc 
 
