@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dezhi Ye"
 title_separator          : "-"
-name                     : &name "Dezhi Ye"
+name                     : &name "叶德志"
 description              : &description "personal description"
 url                      : https://dz1109.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
