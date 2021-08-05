@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dezhi Ye"
+  name             : "Dezhi Ye (叶德志)"
   avatar           : "微信图片_20200526215146.jpg"
-  bio              : "An algorithm engineer focus on NLP, Recommendation system and Search"
+  bio              : "An algorithm engineer focus on NLP, Recommendation and Search"
   location         : "China "
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
