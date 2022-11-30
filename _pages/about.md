@@ -51,6 +51,4 @@ We are looking for some academic cooperation on Search, Recommendation or NLP, p
 
 wechat  ye18600537322
 
-zhihu  坏星星是大脸猫
-
 Email 390959029@qq.com or DezhiYe.NEU@gmail.com
