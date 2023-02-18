@@ -32,6 +32,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Tra
 
 
 ======Work Experience
+2016/07-201707    Engineer                Risk Control         China Sports Lottery
 
 2020/01-2021/04  Algorithm Engineer       Search Algorithm      ChinaLiterature
 
@@ -39,7 +40,7 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Tra
 
 ======Academic Collaboration
 
-We are looking for some academic cooperation on Search, Recommendation or NLP, please contact us if you are interested. We are committed to publishing Advanced work at top conferences such as KDD, ACL, EMNLP etc.
+We are looking for some academic cooperation on Search or NLP, please contact us if you are interested. We are committed to publishing Advanced work at top conferences such as KDD, ACL, EMNLP etc.
 
 ======Contact with me
 
