@@ -39,9 +39,13 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Tra
 
 2021/04-NOW      Algorithm Engineer       Search Algorithm      Tencent PCG
 
-======Academic Collaboration
+======Research Intern
 
-We are looking for some academic cooperation on Search or NLP, please contact us if you are interested. We are committed to publishing Advanced work at top conferences such as KDD, ACL, EMNLP etc.
+We are looking for some Research Intern on Search or NLP, please contact us if you are interested.
+
+1. text matching (Especially in QA)
+2. Query Understanding (query correction, query rewrite etc.)
+
 
 ======Contact with me
 
