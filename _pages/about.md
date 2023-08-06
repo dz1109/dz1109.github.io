@@ -23,6 +23,8 @@ OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the
 
 CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
 
+Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
+
 
 ======Education Experience
 
