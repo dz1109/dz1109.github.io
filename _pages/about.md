@@ -56,6 +56,6 @@ We are looking for some Research Intern on Search or NLP, please contact us if y
 
 ======Contact with me
 
-wechat  ye18600537322
+wechat  18202422370
 
 Email 390959029@qq.com or DezhiYe.NEU@gmail.com
