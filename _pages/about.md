@@ -26,6 +26,10 @@ CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Tra
 Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
 
 
+======Activities
+I serve as Reviewer of ENMLP 2023
+
+
 ======Education Experience
 
 2012/09-2016/06  computer science      Beijing University of Technology  
