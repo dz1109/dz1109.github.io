@@ -40,17 +40,17 @@ I serve as Reviewer of ENMLP 2023
 
 ======Work Experience
 
-2016/07-201707    Engineer                Risk Control         China Sports Lottery
+2016/07-201707         Risk Control         China Sports Lottery
 
-2020/01-2021/04  Algorithm Engineer       Search Algorithm      ChinaLiterature
+2020/01-2021/04       Search Algorithm      ChinaLiterature
 
-2021/04-NOW      Algorithm Engineer       Search Algorithm      Tencent PCG
+2021/04-NOW        Search Algorithm      Tencent PCG
 
 ======Research Intern
 
 We are looking for some Research Intern on Search or NLP, please contact us if you are interested.
 
-1. text matching (Especially in QA)
+1. Text Matching (Especially in QA)
 2. Query Understanding (query correction, query rewrite etc.)
 
 
@@ -58,4 +58,4 @@ We are looking for some Research Intern on Search or NLP, please contact us if y
 
 wechat  18202422370
 
-Email 390959029@qq.com or DezhiYe.NEU@gmail.com
+Email 390959029@qq.com
