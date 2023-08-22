@@ -13,6 +13,8 @@ I am now a algorithm engineer at Tencent PCG focus on Search Ranking. I received
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
 
+[Semantic Scholar](https://www.semanticscholar.org/author/Dezhi-Ye/15117028)
+
 ======Publications
 
 GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
