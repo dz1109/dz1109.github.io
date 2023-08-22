@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a algorithm engineer at Tencent PCG focus on Search Ranking. I received the MA.Sc. degree in software engineering from Northeastern University in 2020 and the B.S. degree in computer science from Beijing University of Technology 2016. My research interests include data mining and machine learning. I focused on frontier research and technology transformation in Information Retrieval.
+I am now a algorithm engineer at Tencent PCG focus on Search Ranking. I received the MA.Sc. degree in software engineering from Northeastern University in 2020 and the B.S. degree in computer science from Beijing University of Technology 2016. My research interests include Data Mining (DM) and Information Retrieval(IR).
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
@@ -33,9 +33,9 @@ I serve as Reviewer of ENMLP 2023
 
 ======Education Experience
 
-2012/09-2016/06  computer science      Beijing University of Technology  
+2012/09-2016/06  Computer Science      Beijing University of Technology  
 
-2017/09-2020/01  software engineering  Northeastern University
+2017/09-2020/01  Software Engineering    Northeastern University
 
 
 ======Work Experience
