@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a algorithm engineer at Tencent PCG focus on Search Ranking. I received the MA.Sc. degree in software engineering from Northeastern University in 2020 and the B.S. degree in computer science from Beijing University of Technology 2016. My research interests include Data Mining (DM) and Information Retrieval(IR).
+I am now a algorithm engineer at Tencent PCG focus on Search Ranking. I received the MA.Sc. degree in software engineering from Northeastern University in 2020 and the B.S. degree in computer science from Beijing University of Technology 2016. My research interests include Data Mining (DM) and Information Retrieval(IR). I have published multiple papers in top conferences related to information retrieval and data mining, including KDD, TKDE, CIKM, and ets. I also serve as a reviewer for various conferences, including EMNLP, among others.
+
+
+
+
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
