@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a algorithm engineer at Tencent PCG focus on Search Ranking. I received the MA.Sc. degree in software engineering from Northeastern University in 2020 and the B.S. degree in computer science from Beijing University of Technology 2016. My research interests include Data Mining (DM) and Information Retrieval(IR). I have published multiple papers in top conferences related to information retrieval and data mining, including KDD, TKDE, CIKM, and ets. I also serve as a reviewer for various conferences, including EMNLP, among others.
-
-
-
-
+I am currently employed as an algorithm engineer at Tencent PCG, specializing in the domain of Text Matching. I obtained my MA.Sc. degree in software engineering from Northeastern University in 2020, and prior to that, I completed my B.S. degree in computer science at Beijing University of Technology in 2016. My research pursuits primarily revolve around the fields of Data Mining (DM) and Information Retrieval (IR). I have had the privilege of publishing numerous papers in esteemed conferences that focus on information retrieval and data mining, such as KDD, TKDE, CIKM, and ets. Additionally, I actively contribute as a reviewer for various conferences, including EMNLP, among others.
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
 
-[Semantic Scholar](https://www.semanticscholar.org/author/Dezhi-Ye/15117028)
 
 ======Publications
 
