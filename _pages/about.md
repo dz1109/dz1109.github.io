@@ -14,40 +14,31 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
 
 
-======Publications
+## Publications
 
-GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
-
-RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM 2020)(CCF Rank: A)
-
-OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020 Oral)(CCF Rank: A)
-
-CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
-
-Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
+- GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
+- RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM 2020)(CCF Rank: A)
+- OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020 Oral)(CCF Rank: A)
+- CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
+- Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
 
 
-======Activities
+## Activities
+### Reviewer
+- EMNLP 2023 (Application), ICLR 2024 (TinyPapers)
 
-I serve as Reviewer of ENMLP 2023
-
-
-======Education Experience
-
-2012/09-2016/06  Computer Science      Beijing University of Technology  
-
-2017/09-2020/01  Software Engineering    Northeastern University
+## Education Experience
+- 2012/09-2016/06  Computer Science      Beijing University of Technology  
+- 2017/09-2020/01  Software Engineering    Northeastern University
 
 
-======Work Experience
+## Work Experience
 
-2016/07-201707         Risk Control         China Sports Lottery
+- 2016/07-2017/07        China Sports Lottery
+- 2020/01-2021/04      ChinaLiterature
+- 2021/04-NOW        Tencent 
 
-2020/01-2021/04       Search Algorithm      ChinaLiterature
-
-2021/04-NOW        Search Algorithm      Tencent PCG
-
-======Research Intern
+## Research Intern
 
 We are looking for some Research Intern on Search or NLP, please contact us if you are interested.
 
@@ -55,10 +46,8 @@ We are looking for some Research Intern on Search or NLP, please contact us if y
 2. Query Understanding (query correction, query rewrite etc.)
 
 
-======Contact with me
+## Contact with me
 
 wechat  18202422370
 
 Email 390959029@qq.com / dezhiye@tencent.com
-
-
