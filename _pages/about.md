@@ -33,21 +33,16 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 
 
 ## Work Experience
-
 - 2016/07-2017/07        China Sports Lottery
 - 2020/01-2021/04      ChinaLiterature
 - 2021/04-NOW        Tencent 
 
 ## Research Intern
-
 We are looking for some Research Intern on Search or NLP, please contact us if you are interested.
-
-1. Text Matching (Especially in QA)
-2. Query Understanding (query correction, query rewrite etc.)
+- Text Matching (Especially in QA)
+- Query Understanding (query correction, query rewrite etc.)
 
 
 ## Contact with me
-
-wechat  18202422370
-
-Email 390959029@qq.com / dezhiye@tencent.com
+- wechat  18202422370
+- Email 390959029@qq.com / dezhiye@tencent.com
