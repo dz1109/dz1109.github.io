@@ -22,14 +22,14 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 - GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
 ## Activities
 ### Reviewer
-- EMNLP 2023 (Application), ICLR 2024 (TinyPapers)
+- EMNLP 2023 (Application), ICLR 2024 (TinyPapers), Coling 2024.
 ## Education Experience
-- 2012/09-2016/06  Beijing University of Technology  
 - 2017/09-2020/01  Northeastern University
+- 2012/09-2016/06  Beijing University of Technology  
 ## Work Experience
-- 2016/07-2017/07        China Sports Lottery
+- 2021/04-NOW      Tencent
 - 2020/01-2021/04     ChinaLiterature
-- 2021/04-NOW      Tencent 
+- 2016/07-2017/07        China Sports Lottery
 ## Research Intern
 We are looking for some Research Intern on Search or NLP, please contact us if you are interested.
 - Text Matching (Especially in QA)
