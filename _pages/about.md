@@ -18,11 +18,11 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 - Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
 - CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
 - RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM 2020)(CCF Rank: A)
-- OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD2020 Oral)(CCF Rank: A)
-- GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games.  (CIKM 2019) (CCF Rank: B)
+- OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD 2020 Oral)(CCF Rank: A)
+- GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games. (CIKM 2019) (CCF Rank: B)
 ## Activities
 ### Reviewer
-- EMNLP 2023 (Application), ICLR 2024 (TinyPapers), Coling 2024.
+- EMNLP 2023 (Application), ICLR 2024 (TinyPapers), Coling 2024 (Text Mining).
 ## Education Experience
 - 2017/09-2020/01  Northeastern University
 - 2012/09-2016/06  Beijing University of Technology  
