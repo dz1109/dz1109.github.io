@@ -22,7 +22,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 - GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games. (CIKM 2019) (CCF Rank: B)
 ## Activities
 ### Reviewer
-- EMNLP 2023 (Application), ICLR 2024 (TinyPapers), Coling 2024 (Text Mining).
+- EMNLP 2023 (Application), ICLR 2024 (TinyPapers), Coling 2024 (Text Mining), ACL (ARR).
 ## Education Experience
 - 2017/09-2020/01  Northeastern University
 - 2012/09-2016/06  Beijing University of Technology  
@@ -36,4 +36,4 @@ We are looking for some Research Intern on Search or NLP, please contact us if y
 - Query Understanding (query correction, query rewrite etc.)
 ## Contact with me
 - wechat  18202422370
-- Email 390959029@qq.com / dezhiye@tencent.com
+- Email  dezhiye@tencent.com / 390959029@qq.com
