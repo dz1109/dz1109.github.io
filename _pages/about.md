@@ -21,7 +21,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 - OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD 2020 Oral)(CCF Rank: A)
 - GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games. (CIKM 2019) (CCF Rank: B)
 ## Activities
-### Reviewer
+### Reviewer/Program Committee
 - 2023 EMNLP, ACL ARR
 - 2024 ICLR, Coling, KDD, COLM, CIKM.
 ## Education Experience
