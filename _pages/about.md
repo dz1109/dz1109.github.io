@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently employed as an algorithm engineer at Tencent PCG, specializing in the domain of Text Matching. I obtained my MA.Sc. degree in software engineering from Northeastern University in 2020, and prior to that, I completed my B.S. degree in computer science at Beijing University of Technology in 2016. My research pursuits primarily revolve around the fields of Data Mining (DM) and Information Retrieval (IR). I have had the privilege of publishing numerous papers in esteemed conferences that focus on information retrieval and data mining, such as KDD, TKDE, CIKM, and ets. Additionally, I actively contribute as a reviewer for various conferences, including EMNLP, among others.
+I am currently employed as an algorithm engineer at Tencent PCG, specializing in the domain of Text Matching. I obtained my MA.Sc. degree in software engineering from Northeastern University in 2020, and prior to that, I completed my B.S. degree in computer science at Beijing University of Technology in 2016. My research pursuits primarily revolve around the fields of Data Mining (DM) and Information Retrieval (IR). I have published some papers at top conferences/journals that focus on information retrieval and data mining, such as KDD, TKDE, CIKM, et al. 
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
 
 
 ## Publications
+- Enhancing Asymmetric Web Search through Question-Answer Generation and Ranking (KDD 2024) (CCF Rank: A)
 - Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
 - CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
 - RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM 2020)(CCF Rank: A)
@@ -37,4 +38,4 @@ We are looking for some Research Intern on Search or NLP, please contact us if y
 - Query Understanding (query correction, query rewrite etc.)
 ## Contact with me
 - wechat  18202422370
-- Email  dezhiye@tencent.com / 390959029@qq.com
+- Email  390959029@qq.com
