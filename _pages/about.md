@@ -15,6 +15,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 
 
 ## Publications
+- Span Confusion is All You Need for Chinese Spelling Correction (CIKM 2024) (CCF Rank: B)
 - Enhancing Asymmetric Web Search through Question-Answer Generation and Ranking (KDD 2024) (CCF Rank: A)
 - Improving Query Correction Using Pre-train Language Model In Search Engines (CIKM 2023 Oral) (CCF Rank: B)
 - CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
