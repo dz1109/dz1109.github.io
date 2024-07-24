@@ -26,6 +26,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 ### Reviewer/Program Committee
 - 2023 EMNLP, ARR
 - 2024 ICLR, Coling, KDD, COLM, CIKM, NeurIPS.
+- 2025 KDD
 ## Education Experience
 - 2017/09-2020/01  Northeastern University
 - 2012/09-2016/06  Beijing University of Technology  
