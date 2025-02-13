@@ -15,6 +15,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 
 
 ## Publications
+- QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction (NAACL 2025) (CCF Rank: B)
 - Best Practices for Distilling Large Language Models into BERT for Web Search Ranking (COLING 2025) (CCF Rank: B)
 - Span Confusion is All You Need for Chinese Spelling Correction (CIKM 2024) (CCF Rank: B)
 - Enhancing Asymmetric Web Search through Question-Answer Generation and Ranking (KDD 2024) (CCF Rank: A)
@@ -27,7 +28,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 ### Reviewer/Program Committee
 - 2023 EMNLP, ARR
 - 2024 ICLR, Coling, KDD, COLM, CIKM, NeurIPS(Top Reviewers).
-- 2025 KDD, WSDM
+- 2025 KDD, WSDM, ICML, COLM, ICLR, TMLR
 ## Education Experience
 - 2017/09-2020/01  Northeastern University
 - 2012/09-2016/06  Beijing University of Technology  
