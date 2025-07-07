@@ -15,6 +15,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 
 
 ## Publications
+- Applying Large Language Model For Relevance Search In Tencent (KDD 2025) (CCF Rank: A)
 - QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction (NAACL 2025) (CCF Rank: B)
 - Best Practices for Distilling Large Language Models into BERT for Web Search Ranking (COLING 2025) (CCF Rank: B)
 - Span Confusion is All You Need for Chinese Spelling Correction (CIKM 2024) (CCF Rank: B)
