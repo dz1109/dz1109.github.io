@@ -15,6 +15,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 
 
 ## Publications
+- Can LLMs Really Help Query Understanding In Web Search? A Practical Perspective (CIKM 2025) (CCF Rank: B)
 - Applying Large Language Model For Relevance Search In Tencent (KDD 2025) (CCF Rank: A)
 - QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction (NAACL 2025) (CCF Rank: B)
 - Best Practices for Distilling Large Language Models into BERT for Web Search Ranking (COLING 2025) (CCF Rank: B)
@@ -24,7 +25,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 - CFFNN: Cross Feature Fusion Neural Network for Collaborative Filtering (IEEE Transactions on Knowledge and Data Engineering 2021)(CCF Rank: A)
 - RePiDeM: A Refined POI Demand Modeling based on Multi-Source Data (INFOCOM 2020)(CCF Rank: A)
 - OptMatch: Optimaized Matchmaking via Modeling the High-Order interactions on the Arena (KDD 2020 Oral)(CCF Rank: A)
-- GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games. (CIKM 2019) (CCF Rank: B)
+- GMTL: A GART Based Multi-task Learning Model for Multi-Social-Temporal Prediction in Online Games (CIKM 2019) (CCF Rank: B)
 ## Activities
 ### Reviewer/Program Committee
 - 2023 EMNLP, ARR
