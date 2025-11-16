@@ -15,6 +15,7 @@ I am currently employed as an algorithm engineer at Tencent PCG, specializing in
 
 
 ## Publications
+- TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking (AAAI 2026) (CCF Rank: A)
 - Can LLMs Really Help Query Understanding In Web Search? A Practical Perspective (CIKM 2025) (CCF Rank: B)
 - Applying Large Language Model For Relevance Search In Tencent (KDD 2025) (CCF Rank: A)
 - QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction (NAACL 2025) (CCF Rank: B)
