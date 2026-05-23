@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently employed as an algorithm engineer at Tencent PCG, specializing in the domain of Text Matching. I obtained my MA.Sc. degree in software engineering from Northeastern University in 2020, and prior to that, I completed my B.S. degree in computer science at Beijing University of Technology in 2016. My research pursuits primarily revolve around the fields of Data Mining (DM) and Information Retrieval (IR). I have published some papers at top conferences/journals that focus on information retrieval and data mining, such as KDD, TKDE, CIKM, et al. 
+I am currently employed as an algorithm engineer at Tencent Yuanbao. I obtained my MA.Sc. degree in software engineering from Northeastern University in 2020, and prior to that, I completed my B.S. degree in computer science at Beijing University of Technology in 2016. My research pursuits primarily revolve around the fields of Data Mining (DM) and Information Retrieval (IR). I have published some papers at top conferences/journals that focus on information retrieval and data mining, such as KDD, TKDE, CIKM, et al. 
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=0DRNbaIAAAAJ)
 
 
 ## Publications
+- UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search (KDD 2026) (CCF Rank: A)
 - TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking (AAAI 2026) (CCF Rank: A)
 - Can LLMs Really Help Query Understanding In Web Search? A Practical Perspective (CIKM 2025) (CCF Rank: B)
 - Applying Large Language Model For Relevance Search In Tencent (KDD 2025) (CCF Rank: A)
