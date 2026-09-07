@@ -15,11 +15,11 @@ I am currently employed as an algorithm engineer at Tencent Yuanbao. I obtained 
 
 
 ## Publications
-- UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search (KDD 2026) (CCF Rank: A)
+- UniRank: A Unified Framework for Efficient Multi-Objective LLM Ranking in Industrial Search (KDD 2026) (CCF Rank: A) [Code](https://github.com/dz1109/Unirank)
 - TFRank: Think-Free Reasoning Enables Practical Pointwise LLM Ranking (AAAI 2026) (CCF Rank: A)
 - Can LLMs Really Help Query Understanding In Web Search? A Practical Perspective (CIKM 2025) (CCF Rank: B)
 - Applying Large Language Model For Relevance Search In Tencent (KDD 2025) (CCF Rank: A)
-- QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction (NAACL 2025) (CCF Rank: B)
+- QSpell 250K: A Large-Scale, Practical Dataset for Chinese Search Query Spell Correction (NAACL 2025) (CCF Rank: B) [Code](https://github.com/dz1109/CQSpell)
 - Best Practices for Distilling Large Language Models into BERT for Web Search Ranking (COLING 2025) (CCF Rank: B)
 - Span Confusion is All You Need for Chinese Spelling Correction (CIKM 2024) (CCF Rank: B)
 - Enhancing Asymmetric Web Search through Question-Answer Generation and Ranking (KDD 2024) (CCF Rank: A)
