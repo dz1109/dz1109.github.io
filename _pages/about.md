@@ -15,6 +15,7 @@ I am currently employed as an algorithm engineer at Tencent Yuanbao. I obtained 
 
 
 ## Publications
+- Optimizing Retrieval-Augmented Query Correction: Leveraging Search Snippets for Context-Aware Refinement (KDD 2027)
 - RMB: Reward Model Boosting Mitigates Reward Hacking (TMLR 2026)
 - Beyond Polarization: The Generative Constraint of Chain-of-Thought in Pointwise Reranking (EMNLP 2026 Findings)
 - Rank4Gen: RAG-Preference-Aligned Document Set Selection and Ranking (EMNLP 2026 Findings)
